@@ -22,3 +22,5 @@ http://peliculasrajoy.com
 
 https://deltironmega.com
 
+www.pelispedia.tv
+
