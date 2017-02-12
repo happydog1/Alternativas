@@ -24,3 +24,4 @@ https://deltironmega.com
 
 www.pelispedia.tv
 
+http://www.repelis.tv/
