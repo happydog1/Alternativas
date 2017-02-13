@@ -27,3 +27,5 @@ www.pelispedia.tv
 http://www.repelis.tv/
 
 http://pepecine.net
+
+hdfull.tv
