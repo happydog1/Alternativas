@@ -1,11 +1,22 @@
 # Alternativas a pordede cuando cae
-http://1337x.to/
 
-http://bitsnoop.com/
+
+
+|Sitio                          |Online         |Descarga       |Torrent        |
+|-------------------------------------------------------------------------------|
+|http://1337x.to/               |               |               |               |
+|http://bitsnoop.com/           |               |               |               |
+|                               |               |               |               |
+|http://cuelgame.net/           |               |               |               |
+|                               |               |               |               |
+|                               |               |               |               |
+|                               |               |               |               |
+|                               |               |               |               |
+
+
+
 
 http://completediscographies.blogspot.com.ar/
-
-http://cuelgame.net/
 
 http://extratorrent.cc/
 
