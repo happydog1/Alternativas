@@ -6,15 +6,15 @@
 |-------------------------------|---------------|---------------|---------------|-------------------|
 |http://1337x.to/               |               |               |SI             |                   |
 |http://bitsnoop.com/           |               |               |SI             |                   |
-|http://completediscographies.blogspot.com.ar/  |               |                |SI             |              
-|http://cuelgame.net/           |               |               |SI               |
+|http://completediscographies.blogspot.com.ar/  |               |               |SI                 |              
+|http://cuelgame.net/           |               |               |SI             |
 |http://extratorrent.cc/        |               |               |SI             |
 |http://gnula.se                |SI             |SI             |               |
 |http://gnula.nu                |SI             |SI             |               |
 |http://grupots.net             |               |               |               |SI
 |http://hdfull.tv/              |SI             |SI             |               |
 |http://isohunt.to/             |               |               |SI             |
-|http://kit-series.net/         |               |               |               |
+|http://kit-series.net/         |SI             |SI             |               |
 |http://latelete.tv/xtrm-en-directo-gratis-por-internet/|       |               |
 |http://mega-foro.com/#         |               |               |               |
 |http://peliculasrajoy.com      |               |               |               |
