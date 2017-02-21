@@ -5,17 +5,17 @@
 |Sitio                          |Online         |Descarga       |Torrent        |
 |-------------------------------|---------------|---------------|---------------|
 |http://1337x.to/               |               |               |SI             |
-|http://bitsnoop.com/           |               |               |               |
-|http://completediscographies.blogspot.com.ar/ |               |               |               |
+|http://bitsnoop.com/           |               |               |SI             |
+|http://completediscographies.blogspot.com.ar/  |               |SI             |              
 |http://cuelgame.net/           |               |               |               |
-|http://extratorrent.cc/        |               |               |               |
+|http://extratorrent.cc/        |               |               |SI             |
 |http://gnula.se                |               |               |               |
 |http://gnula.nu                |               |               |               |
 |http://grupots.net             |               |               |               |
 |http://hdfull.tv/              |               |               |               |
 |http://isohunt.to/             |               |               |               |
 |http://kit-series.net/         |               |               |               |
-|http://latelete.tv/xtrm-en-directo-gratis-por-internet/|               |               |               |
+|http://latelete.tv/xtrm-en-directo-gratis-por-internet/|       |               |
 |http://mega-foro.com/#         |               |               |               |
 |http://peliculasrajoy.com      |               |               |               |
 |http://pelis24.com/            |               |               |               |
