@@ -6,7 +6,7 @@
 |-------------------------------|---------------|---------------|---------------|
 |http://1337x.to/               |               |               |SI             |
 |http://bitsnoop.com/           |               |               |SI             |
-|http://completediscographies.blogspot.com.ar/  |               |SI             |              
+|http://completediscographies.blogspot.com.ar/  |               |                |SI             |              
 |http://cuelgame.net/           |               |               |               |
 |http://extratorrent.cc/        |               |               |SI             |
 |http://gnula.se                |               |               |               |
