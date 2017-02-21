@@ -11,9 +11,9 @@
 |http://extratorrent.cc/        |               |               |SI             |
 |http://gnula.se                |SI             |SI             |               |
 |http://gnula.nu                |SI             |SI             |               |
-|http://grupots.net             |               |               |               |
-|http://hdfull.tv/              |               |               |               |
-|http://isohunt.to/             |               |               |               |
+|http://grupots.net             |               |               |               |SI
+|http://hdfull.tv/              |SI             |SI             |               |
+|http://isohunt.to/             |               |               |SI             |
 |http://kit-series.net/         |               |               |               |
 |http://latelete.tv/xtrm-en-directo-gratis-por-internet/|       |               |
 |http://mega-foro.com/#         |               |               |               |
