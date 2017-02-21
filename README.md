@@ -9,8 +9,8 @@
 |http://completediscographies.blogspot.com.ar/  |               |                |SI             |              
 |http://cuelgame.net/           |               |               |SI               |
 |http://extratorrent.cc/        |               |               |SI             |
-|http://gnula.se                |               |               |               |
-|http://gnula.nu                |               |               |               |
+|http://gnula.se                |SI             |SI             |               |
+|http://gnula.nu                |SI             |SI             |               |
 |http://grupots.net             |               |               |               |
 |http://hdfull.tv/              |               |               |               |
 |http://isohunt.to/             |               |               |               |
