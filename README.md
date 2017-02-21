@@ -2,10 +2,10 @@
 
 
 
-|Sitio                          |Online         |Descarga       |Torrent        |
-|-------------------------------|---------------|---------------|---------------|
-|http://1337x.to/               |               |               |SI             |
-|http://bitsnoop.com/           |               |               |SI             |
+|Sitio                          |Online         |Descarga       |Torrent        |Registro Necesario |
+|-------------------------------|---------------|---------------|---------------|-------------------|
+|http://1337x.to/               |               |               |SI             |                   |
+|http://bitsnoop.com/           |               |               |SI             |                   |
 |http://completediscographies.blogspot.com.ar/  |               |                |SI             |              
 |http://cuelgame.net/           |               |               |SI               |
 |http://extratorrent.cc/        |               |               |SI             |
