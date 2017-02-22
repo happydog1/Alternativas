@@ -18,10 +18,10 @@
 |http://latelete.tv/xtrm-en-directo-gratis-por-internet/|   SI  |               |
 |http://mega-foro.com/#         |               |               |               |SI
 |http://peliculasrajoy.com      |SI             |SI             |               |
-|http://pelis24.com/            |               |               |               |
-|http://pelisadicto.com/        |               |               |               |
-|http://pepecine.net            |               |               |               |
-|http://pordescargadirecta.com  |               |               |               |
+|http://pelis24.com/            |SI             |SI             |               |
+|http://pelisadicto.com/        |SI             |SI             |               |
+|http://pepecine.net            |SI             |               |               |
+|http://pordescargadirecta.com  |               |SI             |               |SI
 |http://rarbg.com/index6.php    |               |               |               |
 |http://series.life/            |               |               |               |
 |http://series.mu/catalogo/all/1/|               |               |               |
