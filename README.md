@@ -68,4 +68,7 @@
 |https://www.torrentz.com/      |               |               |               |
 |https://yts.re/                |               |               |               |
 |http://www.pelispedia.tv/      |               |               |               |
-|                               |               |               |               |
+|http://www.vixto.net/          |               |               |               |               |
+https://watchseriesfree.to/     |               |               |               |               |
+http://primeseries.to/          |               |               |               |               |
+https://pelismag.net/           |               |               |               |               |
