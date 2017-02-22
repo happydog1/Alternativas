@@ -15,7 +15,7 @@
 |http://hdfull.tv/              |SI             |SI             |               |
 |http://isohunt.to/             |               |               |SI             |
 |http://kit-series.net/         |SI             |SI             |               |
-|http://latelete.tv/xtrm-en-directo-gratis-por-internet/|       |               |
+|http://latelete.tv/xtrm-en-directo-gratis-por-internet/|   SI  |               |
 |http://mega-foro.com/#         |               |               |               |
 |http://peliculasrajoy.com      |               |               |               |
 |http://pelis24.com/            |               |               |               |
