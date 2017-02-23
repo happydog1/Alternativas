@@ -31,18 +31,15 @@
 |http://www.ciberdvd.com/PeliculasPepito.com| SI              |               |         |OPCIONAL   
 |http://www.cinetux.org/        |SI             |SI             |               |
 |http://www.cuevana2.tv/peliculas/peliculas/|SI             |SI             |               |
-|http://www.divxatope.com/      |               |               |               |
-|http://www.divxtotal.com/      |               |               |               |
-|http://www.elitetorrent.net/   |               |               |               |
-|http://www.enlacia.com/        |               |               |               |
-|http://www.estrenosdtl.com/    |               |               |               |
-|http://www.exvagos.com/        |               |               |               |
-|http://www.malvin.tv/          |               |               |               |
-|http://www.mejortorrent.com/   |               |               |               |
-|http://www.newpct.com/         |               |               |               |
-|http://www.newpct1.com/        |               |               |               |
-|http://www.oranline.com/       |               |               |               |
-|http://www.peliculasdk.com/    |               |               |               |
+|http://www.divxatope.com/      |SI             |SI             |SI             |
+|http://www.divxtotal.com/      |               |               |SI             |
+|http://www.elitetorrent.net/   |               |               |SI             |
+|http://www.estrenosdtl.com/    |               |               |SI             |
+|http://www.exvagos.com/        |               |SI             |               |SI
+|http://www.mejortorrent.com/   |               |               |SI             |
+|http://www.newpct.com/         |               |               |SI             |
+|http://www.newpct1.com/        |               |               |SI             |
+|http://www.peliculasdk.com/    |SI             |               |               |
 |http://www.peliculasid.net/    |               |               |               |
 |http://www.peliculasmx.net/    |               |               |               |
 |http://www.pelispedia.tv/      |               |               |               |
@@ -65,7 +62,7 @@
 |https://www.torrentz.com/      |               |               |               |
 |https://yts.re/                |               |               |               |
 |http://www.pelispedia.tv/      |               |               |               |
-|http://www.vixto.net/          |               |               |               |               |
+|http://www.vixto.net/          |SI             |SI             |               |               |
 https://watchseriesfree.to/     |               |               |               |               |
 http://primeseries.to/          |               |               |               |               |
 https://pelismag.net/           |               |               |               |               |
