@@ -28,7 +28,7 @@
 |http://ver-pelis.net/          |SI             |               |               |
 |http://watchseries.ag/         |SI             |SI             |               |
 |http://www.bajui.com/          |SI             |SI             |               |
-|http://www.ciberdvd.com/PeliculasPepito.com| SI              |               |OPCIONAL            |
+|http://www.ciberdvd.com/PeliculasPepito.com| SI              |               |         |OPCIONAL   
 |http://www.cinehanwer.com/     |               |               |               |
 |http://www.cinetux.org/        |               |               |               |
 |http://www.cuevana2.tv/peliculas/peliculas/|               |               |               |
