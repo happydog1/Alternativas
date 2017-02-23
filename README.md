@@ -25,10 +25,10 @@
 |http://rarbg.com/index6.php    |               |               |SI             |
 |http://seriesblanco.com/       |SI             |SI             |               |
 |http://seriesdanko.com         |SI             |SI             |               |
-|http://ver-pelis.net/          |               |               |               |
-|http://watchseries.ag/         |               |               |               |
-|http://www.bajui.com/          |               |               |               |
-|http://www.ciberdvd.com/PeliculasPepito.com|               |               |               |
+|http://ver-pelis.net/          |SI             |               |               |
+|http://watchseries.ag/         |SI             |SI             |               |
+|http://www.bajui.com/          |SI             |SI             |               |
+|http://www.ciberdvd.com/PeliculasPepito.com| SI              |               |OPCIONAL            |
 |http://www.cinehanwer.com/     |               |               |               |
 |http://www.cinetux.org/        |               |               |               |
 |http://www.cuevana2.tv/peliculas/peliculas/|               |               |               |
