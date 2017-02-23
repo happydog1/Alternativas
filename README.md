@@ -72,3 +72,4 @@
 https://watchseriesfree.to/     |               |               |               |               |
 http://primeseries.to/          |               |               |               |               |
 https://pelismag.net/           |               |               |               |               |
+http://pelisdanko.com/          |               |               |               |               |
