@@ -40,32 +40,25 @@
 |http://www.newpct.com/         |               |               |SI             |
 |http://www.newpct1.com/        |               |               |SI             |
 |http://www.peliculasdk.com/    |SI             |               |               |
-|http://www.peliculasid.net/    |               |               |               |
-|http://www.peliculasmx.net/    |               |               |               |
-|http://www.pelispedia.tv/      |               |               |               |
-|http://www.repelis.tv/         |               |               |               |
-|http://www.seriesflv.net       |               |               |               |
-|http://www.seriesid.tv/        |               |               |               |
-|http://www.seriespepito.to/    |               |               |               |
-|http://www.somosmovies.com/    |               |               |               |
-|http://www.tushurweb.com/      |               |               |               |
-|http://www.walvi.tv/           |               |               |               |
-|http://www.wopelis.com         |               |               |               |
-|http://www.zentorrents.com/    |               |               |               |
-|http://www.zpeliculas.com/     |               |               |               |
-|https://4download.me           |               |               |               |
-|https://deltironmega.com       |               |               |               |
-|https://eztv.ch/               |               |               |               |
-|https://playmax.mx             |               |               |               |
-|https://unblocked.red/         |               |               |               |
-|https://www.seriespepito.to    |               |               |               |
-|https://www.torrentz.com/      |               |               |               |
-|https://yts.re/                |               |               |               |
-|http://www.pelispedia.tv/      |               |               |               |
+|http://www.peliculasid.net/    |SI             |               |               |
+|http://www.peliculasmx.net/    |SI             |SI             |               |
+|http://www.pelispedia.tv/      |SI             |               |               |
+|http://www.repelis.tv/         |SI             |               |               |
+|http://www.seriesflv.net       |SI             |SI             |               |
+|http://www.seriespepito.to/    |SI             |SI             |               |
+|http://www.somosmovies.com/    |SI             |SI             |               |
+|http://www.wopelis.com         |SI             |SI             |               |
+|http://www.zentorrents.com/    |               |               |SI             |
+|http://www.zpeliculas.com/     |POCOS ENLACES  |SI             |               |
+|http://seriesmegahd.com/       |               |SI             |               |               |
+|https://eztv.ch/               |               |               |SI             |
+|https://playmax.mx             |SI             |SI             |               |OPCIONAL
+|https://www.seriespepito.to    |SI             |SI             |               |
+|https://www.torrentz.com/      |               |               |SI             |
 |http://www.vixto.net/          |SI             |SI             |               |               |
-https://watchseriesfree.to/     |               |               |               |               |
-http://primeseries.to/          |               |               |               |               |
-https://pelismag.net/           |               |               |               |               |
-http://pelisdanko.com/          |               |               |               |               |
+https://watchseriesfree.to/     |SI             |SI             |               |               |
+http://primeseries.to/          |SI             |               |               |               |
+https://pelismag.net/           |STREAM TORRENT |               |SI             |               |
+http://pelisdanko.com/          |SI             |SI             |               |               |
 https://ororo.tv/               |SI             |SI             |               |OPCIONAL       |
 
