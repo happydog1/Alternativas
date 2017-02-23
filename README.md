@@ -29,9 +29,8 @@
 |http://watchseries.ag/         |SI             |SI             |               |
 |http://www.bajui.com/          |SI             |SI             |               |
 |http://www.ciberdvd.com/PeliculasPepito.com| SI              |               |         |OPCIONAL   
-|http://www.cinehanwer.com/     |               |               |               |
-|http://www.cinetux.org/        |               |               |               |
-|http://www.cuevana2.tv/peliculas/peliculas/|               |               |               |
+|http://www.cinetux.org/        |SI             |SI             |               |
+|http://www.cuevana2.tv/peliculas/peliculas/|SI             |SI             |               |
 |http://www.divxatope.com/      |               |               |               |
 |http://www.divxtotal.com/      |               |               |               |
 |http://www.elitetorrent.net/   |               |               |               |
