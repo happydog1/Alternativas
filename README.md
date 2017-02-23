@@ -23,10 +23,8 @@
 |http://pepecine.net            |SI             |               |               |
 |http://pordescargadirecta.com  |               |SI             |               |SI
 |http://rarbg.com/index6.php    |               |               |SI             |
-|http://series.life/            |               |               |               |
-|http://series.mu/catalogo/all/1/|               |               |               |
-|http://seriesblanco.com/       |               |               |               |
-|http://seriesdanko.com         |               |               |               |
+|http://seriesblanco.com/       |SI             |SI             |               |
+|http://seriesdanko.com         |SI             |SI             |               |
 |http://ver-pelis.net/          |               |               |               |
 |http://watchseries.ag/         |               |               |               |
 |http://www.bajui.com/          |               |               |               |
