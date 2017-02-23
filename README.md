@@ -22,7 +22,7 @@
 |http://pelisadicto.com/        |SI             |SI             |               |
 |http://pepecine.net            |SI             |               |               |
 |http://pordescargadirecta.com  |               |SI             |               |SI
-|http://rarbg.com/index6.php    |               |               |               |
+|http://rarbg.com/index6.php    |               |               |SI             |
 |http://series.life/            |               |               |               |
 |http://series.mu/catalogo/all/1/|               |               |               |
 |http://seriesblanco.com/       |               |               |               |
@@ -73,3 +73,5 @@ https://watchseriesfree.to/     |               |               |               
 http://primeseries.to/          |               |               |               |               |
 https://pelismag.net/           |               |               |               |               |
 http://pelisdanko.com/          |               |               |               |               |
+https://ororo.tv/               |SI             |SI             |               |OPCIONAL       |
+
