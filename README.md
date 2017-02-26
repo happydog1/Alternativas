@@ -61,4 +61,4 @@ http://primeseries.to/          |SI             |               |               
 https://pelismag.net/           |STREAM TORRENT |               |SI             |               |
 http://pelisdanko.com/          |SI             |SI             |               |               |
 https://ororo.tv/               |SI             |SI             |               |OPCIONAL       |
-
+http://torrentking.eu           |STREAM TORRENT |               |SI             |               |
