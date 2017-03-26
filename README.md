@@ -44,6 +44,7 @@
 |http://www.peliculasmx.net/    |SI             |SI             |               |
 |http://www.pelispedia.tv/      |SI             |               |               |
 |http://www.repelis.tv/         |SI             |               |               |
+|https://www.repelisplus.com    |SI             |               |               |               |
 |http://www.seriesflv.net       |SI             |SI             |               |
 |http://www.seriespepito.to/    |SI             |SI             |               |
 |http://www.somosmovies.com/    |SI             |SI             |               |
