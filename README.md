@@ -64,3 +64,9 @@ http://pelisdanko.com/          |SI             |SI             |               
 https://ororo.tv/               |SI             |SI             |               |OPCIONAL       |
 http://torrentking.eu           |STREAM TORRENT |               |SI             |               |
 https://www.seriesgato.com/     |SI             |SI             |               |OPCIONAL/ANTIADBLOCK|
+http://miradetodo.io/           |SI             |               |               |               |
+http://www.cinecalidad.to/      |SI             |               |               |               |
+https://tvbox.ag/               |SI             |               |               |               |
+https://xmovies8.ru/            |SI             |               |               |               |
+http://www.snagfilms.com/       |SI             |               |               |               |
+http://www.classiccinemaonline.com/           |             |                 |                 |
